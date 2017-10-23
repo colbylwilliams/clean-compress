@@ -4,7 +4,7 @@ A macOS utility that cleans (and optionally compresses/zips) Xamarin solutions
 
 ## Use
 
-Download the latest .zip from [Releases](/releases) and decompress/uinzip the contents into: `~/Library/Services` (or `<Username>/Library/Services`)
+Download the `clean-compress.zip` file from the [latest release](/releases/latest) and decompress/uinzip the contents into: `~/Library/Services` (or `<Username>/Library/Services`)
 
 This will add two nice little services to any directory(s) context menu:
 
